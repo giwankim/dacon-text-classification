@@ -1,3 +1,12 @@
+*.csv
+*.pkl
+*.np[yz]
+*.ckpt
+*.pt
+*.pth
+./vscode
+*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
